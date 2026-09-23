@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "358cfb1883c4912f0349244a",
+  "owner": "gbetgyv",
+  "repo": "page-a9e84e5d885774f62ac0a6d4",
+  "title": "星宝",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9e84e5d885774f62ac0a6d4",
+      "a": "星宝",
+      "b": "机场官网线路发布页",
+      "entity": "星宝",
+      "brand": "星宝",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "299d23b8a23d8fe867f679767b260f6dc9b7d49bd52473c1063d5548457190dc",
+      "content": {
+        "primary_entity": "星宝",
+        "keyword1": "星宝",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、Android、iOS 与路由器上，按设备选择对应客户端并导入星宝订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，即可按订阅文档完成配置，开始使用星宝。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更省心",
+          "AI_DESCRIPTION": "，星宝提供按月与按年两种付费方式，基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备；团队版每月 1000GB 流量、支持 20 台设备。客户端覆盖桌面、移动端与路由器，订阅导入步骤清晰，适合根据设备数量与流量需求逐项对比套餐。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合；如果还需平板或更多终端，可选旗舰版 5 台设备档位。",
+          "AI_FAQ_ANSWER_2": "订阅地址通常在购买后由账户页面提供，将地址导入所选客户端即可。不同客户端导入入口不同，可参考对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "月付适合短期使用，年付更划算。基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，可按实际需要选择周期。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版面向更高流量与更多设备场景。旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备，并支持企业定制路由。",
+          "AI_FAQ_ANSWER_5": "在订阅配置中填入星宝提供的订阅地址，保存后更新节点列表，再选择线路连接即可。路由器端建议先在电脑上确认订阅可用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "如何获取星宝订阅地址？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_QUESTION_5": "在路由器上怎么导入订阅？",
+          "AI_FAQ_TITLE": "订阅与套餐常见疑问",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，星宝的配置项简单直观，方便对照选择。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、3 台设备；旗舰版 300GB/月、5 台设备；团队版 1000GB/月、20 台设备。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 及路由器均有对应客户端，按设备类型选择订阅导入方式。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付优惠，可按使用时长选择周期，年付套餐分别标价 ¥150、¥350、¥850。",
+          "AI_FEATURE_TITLE_1": "三档套餐按需选",
+          "AI_FEATURE_TITLE_2": "多设备客户端适配",
+          "AI_FEATURE_TITLE_3": "月付年付周期灵活",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再选择套餐并完成客户端订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成选择与配置",
+          "AI_HERO_INTRO": "星宝提供基础版、旗舰版和团队版三档套餐，覆盖不同设备数量与流量需求。选择套餐后，按设备类型完成客户端订阅导入即可使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付与年付两种计费周期",
+          "AI_HIGHLIGHT_3": "桌面移动及路由器客户端可选",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备内轻度使用；旗舰版支持 5 台设备与 300GB 流量；团队版面向 20 台设备及 1000GB 大流量场景。",
+          "AI_PLANS_TITLE": "对比套餐档位",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量和每月流量需求，在基础版、旗舰版、团队版之间选出匹配档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与流量额度，核对 Windows、macOS、Android、iOS 或路由器客户端的适配情况。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入星宝订阅地址，保存后更新节点并选择线路连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "星宝套餐与客户端"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "deqingjob.cn",
+    "host": "deqingjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "66080a1fb08d25478d93f3cdc8440b50ee51114b91b48e02384263166a151efe",
+    "sitemap.xml": "c768682e309a9c6e296e49751d905c66b77ac247fd0a195a8756745de5f3ee02",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "276f85fca4ce80e4630ecadf49ed92cbddd52a8bfeee22a1000446b7c391287a",
+    "robots.txt": "a1c929ac680518d5e4a19057386492cd3b88449aff56028bf31df6b25a50c431",
+    "b0421fdc614355556782eb175d19c418.txt": "15973b0d47411a3d9ec98ebc2034f070b83bc6849a73ece24fab7e17dad71433"
+  },
+  "revision": "3255a33844f065e079670e213b2ab58750aa5cf7c7392738115d0ada636b17ca"
+}
